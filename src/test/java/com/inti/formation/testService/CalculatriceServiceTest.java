@@ -16,7 +16,7 @@ public class CalculatriceServiceTest {
 	  int a = 5;
 	  int b = 6;
 	  int result = calcService.addition(a, b);
-	  assertEquals(12,result);
+	  assertEquals(11,result);
 		
 	}
 	
